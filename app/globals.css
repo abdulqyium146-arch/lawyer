@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: #0b1f3a;
+  --gold: #c9a84c;
+  --gold-light: #e8d5a3;
+  --gold-rule: #c9a84c;
+  --cream: #f5f7fa;
+  --slate: #4a5568;
+  --mist: #e2e8f0;
+  --white: #ffffff;
+  --success: #276749;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  color: var(--ink);
+  background-color: var(--white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.grain-overlay {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.05'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 256px 256px;
+}
+
+.gold-rule {
+  width: 60px;
+  height: 2px;
+  background-color: var(--gold-rule);
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-gold text-ink font-outfit font-semibold text-sm px-6 py-3 border-2 border-gold rounded transition-all duration-200 hover:scale-[1.02] hover:shadow-lg focus-visible:outline-gold;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 bg-transparent text-ink font-outfit font-semibold text-sm px-6 py-3 border-2 border-ink rounded transition-all duration-200 hover:scale-[1.02] hover:bg-ink hover:text-white focus-visible:outline-gold;
+  }
+
+  .btn-ghost-white {
+    @apply inline-flex items-center justify-center gap-2 bg-transparent text-white font-outfit font-semibold text-sm px-6 py-3 border-2 border-white rounded transition-all duration-200 hover:bg-white hover:text-ink focus-visible:outline-gold;
+  }
+
+  .card {
+    @apply bg-white border border-mist rounded-lg p-6 transition-all duration-200 hover:shadow-card-hover;
+  }
+
+  .h1-style {
+    font-family: var(--font-cormorant), Georgia, serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: clamp(2.2rem, 5vw, 4.2rem);
+    line-height: 1.15;
+    color: var(--ink);
+  }
+
+  .h2-style {
+    font-family: var(--font-cormorant), Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(1.6rem, 3.5vw, 2.8rem);
+    line-height: 1.25;
+    color: var(--ink);
+  }
+
+  .h3-style {
+    font-family: var(--font-cormorant), Georgia, serif;
+    font-weight: 600;
+    font-size: 1.4rem;
+    line-height: 1.35;
+    color: var(--ink);
+  }
+}
