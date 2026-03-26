@@ -163,7 +163,7 @@ const recentPosts = [
     title: "How to Buy Commercial Property in Cheshire: A Practical Guide",
     excerpt:
       "Thinking about buying commercial property in Cheshire? This guide walks you through the key steps, what to watch out for and how a solicitor can protect your investment.",
-    href: "/blog/how-to-buy-commercial-property-cheshire",
+    href: "/blog/buying-commercial-property-cheshire",
     date: "20 March 2026",
     readTime: "8 min read",
     category: "Commercial Property",
@@ -172,7 +172,7 @@ const recentPosts = [
     title: "Commercial Lease Guide 2026: What Every Tenant and Landlord Should Know",
     excerpt:
       "Commercial leases can be complicated. This plain-English guide covers the key clauses, common traps and what you should always negotiate before signing.",
-    href: "/blog/commercial-lease-guide-2026",
+    href: "/blog/commercial-lease-guide",
     date: "10 March 2026",
     readTime: "9 min read",
     category: "Commercial Property",

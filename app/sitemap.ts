@@ -183,19 +183,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/blog/commercial-lease-guide-2026`,
+      url: `${BASE_URL}/blog/commercial-lease-guide`,
       lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/blog/how-to-buy-commercial-property-cheshire`,
+      url: `${BASE_URL}/blog/buying-commercial-property-cheshire`,
       lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/blog/agricultural-tenancy-guide-uk-2026`,
+      url: `${BASE_URL}/blog/agricultural-tenancy-law-uk`,
       lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,

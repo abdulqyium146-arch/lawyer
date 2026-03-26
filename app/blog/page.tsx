@@ -27,7 +27,7 @@ const posts = [
     title: "How to Buy Commercial Property in Cheshire: A Practical Guide (2026)",
     excerpt:
       "Thinking about buying commercial property in Cheshire or the North West? This guide walks you through the key steps, what to watch out for, and how a solicitor can protect your investment.",
-    href: "/blog/how-to-buy-commercial-property-cheshire",
+    href: "/blog/buying-commercial-property-cheshire",
     date: "20 March 2026",
     readTime: "8 min read",
     category: "Commercial Property",
@@ -45,7 +45,7 @@ const posts = [
     title: "Commercial Lease Guide for UK Business Owners (2026)",
     excerpt:
       "Before you sign a commercial lease, make sure you understand rent reviews, dilapidations, break clauses and your security of tenure rights under the Landlord and Tenant Act 1954.",
-    href: "/blog/commercial-lease-guide-2026",
+    href: "/blog/commercial-lease-guide",
     date: "10 March 2026",
     readTime: "10 min read",
     category: "Commercial Property",
@@ -72,7 +72,7 @@ const posts = [
     title: "Agricultural Tenancy Guide UK (2026)",
     excerpt:
       "A plain-English guide to AHA and FBT tenancy agreements, succession rights, rent reviews and dispute resolution for agricultural landowners and tenants in England and Wales.",
-    href: "/blog/agricultural-tenancy-guide-uk-2026",
+    href: "/blog/agricultural-tenancy-law-uk",
     date: "10 January 2026",
     readTime: "10 min read",
     category: "Agricultural Law",

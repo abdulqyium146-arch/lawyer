@@ -35,7 +35,7 @@ const RELATED_POSTS = [
     title: "Commercial Lease Agreement Guide for UK Business Owners (2026)",
     excerpt:
       "Before signing a commercial lease you need to understand rent review clauses, dilapidations obligations, break clauses and security of tenure under the Landlord and Tenant Act 1954.",
-    href: "/blog/commercial-lease-guide-2026",
+    href: "/blog/commercial-lease-guide",
     date: "10 March 2026",
     readTime: "10 min read",
     category: "Commercial Leases",

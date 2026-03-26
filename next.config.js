@@ -127,7 +127,23 @@ const nextConfig = {
         destination: `${DOMAIN}/:path*`,
         permanent: true, // 301
       },
-      // Legacy slug safety nets
+      // Blog URL clean-ups — old stale slugs → clean canonical slugs (301)
+      {
+        source: "/blog/commercial-lease-guide-2026",
+        destination: "/blog/commercial-lease-guide",
+        permanent: true,
+      },
+      {
+        source: "/blog/agricultural-tenancy-guide-uk-2026",
+        destination: "/blog/agricultural-tenancy-law-uk",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-to-buy-commercial-property-cheshire",
+        destination: "/blog/buying-commercial-property-cheshire",
+        permanent: true,
+      },
+      // Legacy service slug safety nets
       {
         source: "/services/criminal-law",
         destination: "/services",

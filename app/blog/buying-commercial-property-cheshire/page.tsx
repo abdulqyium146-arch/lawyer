@@ -11,13 +11,13 @@ export const metadata: Metadata = {
   description:
     "A complete step-by-step guide to buying commercial property in Cheshire and the North West. NJB Legal explains every legal stage from searches to completion.",
   alternates: {
-    canonical: "https://anisrahmanchambers.co.uk/blog/how-to-buy-commercial-property-cheshire",
+    canonical: "https://anisrahmanchambers.co.uk/blog/buying-commercial-property-cheshire",
   },
   openGraph: {
     title: "How to Buy Commercial Property in Cheshire: Step-by-Step Legal Guide | NJB Legal",
     description:
       "A complete step-by-step guide to buying commercial property in Cheshire and the North West. NJB Legal explains every legal stage from searches to completion.",
-    url: "https://anisrahmanchambers.co.uk/blog/how-to-buy-commercial-property-cheshire",
+    url: "https://anisrahmanchambers.co.uk/blog/buying-commercial-property-cheshire",
     locale: "en_GB",
     type: "article",
   },
@@ -99,7 +99,7 @@ export default function HowToBuyCommercialPropertyCheshirePage() {
       readTime="9 min read"
       category="Commercial Property"
       breadcrumbTitle="How to Buy Commercial Property in Cheshire"
-      url="/blog/how-to-buy-commercial-property-cheshire"
+      url="/blog/buying-commercial-property-cheshire"
       description="A complete step-by-step guide to buying commercial property in Cheshire and the North West. NJB Legal explains every legal stage from searches to completion."
       faqs={faqs}
     >

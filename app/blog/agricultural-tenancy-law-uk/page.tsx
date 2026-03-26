@@ -10,13 +10,13 @@ export const metadata: Metadata = {
   description:
     "What is the difference between a Farm Business Tenancy and an Agricultural Holdings Act tenancy? NJB Legal explains the key differences for UK farmers and landowners.",
   alternates: {
-    canonical: "https://anisrahmanchambers.co.uk/blog/agricultural-tenancy-guide-uk-2026",
+    canonical: "https://anisrahmanchambers.co.uk/blog/agricultural-tenancy-law-uk",
   },
   openGraph: {
     title: "Farm Business Tenancy vs Agricultural Holdings: UK Guide 2026 | NJB Legal",
     description:
       "What is the difference between a Farm Business Tenancy and an Agricultural Holdings Act tenancy? NJB Legal explains the key differences for UK farmers and landowners.",
-    url: "https://anisrahmanchambers.co.uk/blog/agricultural-tenancy-guide-uk-2026",
+    url: "https://anisrahmanchambers.co.uk/blog/agricultural-tenancy-law-uk",
     locale: "en_GB",
     type: "article",
   },
@@ -104,7 +104,7 @@ export default function AgriculturalTenancyGuideUK2026Page() {
       readTime="9 min read"
       category="Agricultural Law"
       breadcrumbTitle="Farm Business Tenancy vs Agricultural Holdings"
-      url="/blog/agricultural-tenancy-guide-uk-2026"
+      url="/blog/agricultural-tenancy-law-uk"
       description="What is the difference between a Farm Business Tenancy and an Agricultural Holdings Act tenancy? NJB Legal explains the key differences for UK farmers and landowners."
       faqs={faqs}
     >
