@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Legal disclaimer for NJB Legal — information on this website does not constitute legal advice.",
   alternates: {
-    canonical: "https://njblegal.co.uk/disclaimer",
+    canonical: "https://anisrahmanchambers.co.uk/disclaimer",
   },
   openGraph: {
     locale: "en_GB",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Legal Disclaimer | NJB Legal",
     description:
       "Legal disclaimer for NJB Legal — information on this website does not constitute legal advice.",
-    url: "https://njblegal.co.uk/disclaimer",
+    url: "https://anisrahmanchambers.co.uk/disclaimer",
     siteName: "NJB Legal",
   },
 };
@@ -174,8 +174,8 @@ export default function DisclaimerPage() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate font-outfit">
                   <Mail size={16} className="text-gold shrink-0" />
-                  <a href="mailto:info@njblegal.co.uk" className="hover:text-gold transition-colors">
-                    info@njblegal.co.uk
+                  <a href="mailto:info@anisrahmanchambers.co.uk" className="hover:text-gold transition-colors">
+                    info@anisrahmanchambers.co.uk
                   </a>
                 </div>
               </address>

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     "Corporate and commercial legal advice for businesses in Cheshire and the North West. NJB Legal advises on business acquisitions, shareholder agreements, due diligence and commercial contracts. Call 07587 723897.",
   alternates: {
     canonical:
-      "https://njblegal.co.uk/services/corporate-commercial-lawyer-north-west",
+      "https://anisrahmanchambers.co.uk/services/corporate-commercial-lawyer-north-west",
   },
   openGraph: {
     locale: "en_GB",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
       "Corporate & Commercial Lawyer Cheshire | Business Legal Advice | NJB Legal",
     description:
       "Corporate and commercial legal advice for businesses in Cheshire and the North West. Business acquisitions, shareholder agreements and commercial contracts. Call 07587 723897.",
-    url: "https://njblegal.co.uk/services/corporate-commercial-lawyer-north-west",
+    url: "https://anisrahmanchambers.co.uk/services/corporate-commercial-lawyer-north-west",
     siteName: "NJB Legal",
     type: "website",
   },
@@ -46,7 +46,7 @@ export default function CorporateCommercialPage() {
         { name: "Corporate Commercial Lawyer North West" },
       ]}
       headline="Corporate & Commercial Lawyer in the North West | NJB Legal"
-      intro="NJB Legal provides corporate and commercial legal advice for businesses across the North West UK. Based in Winsford, Cheshire, solicitor NJB Legal acts as a trusted corporate lawyer North West UK businesses rely on for M&A transactions, shareholders agreements, business acquisitions and a full range of commercial contracts. With senior-level corporate and commercial experience, and working within the Nexa Law network, NJB Legal advises owner-managed businesses, SMEs and investors on transactions governed by the Companies Act 2006, Sale of Goods Act 1979 and Partnership Act 1890. Whether you are buying or selling a business, restructuring your shareholding or putting commercial contracts in place, NJB Legal provides direct, commercially focused advice. Call 07587 723897 or email info@njblegal.co.uk."
+      intro="NJB Legal provides corporate and commercial legal advice for businesses across the North West UK. Based in Winsford, Cheshire, solicitor NJB Legal acts as a trusted corporate lawyer North West UK businesses rely on for M&A transactions, shareholders agreements, business acquisitions and a full range of commercial contracts. With senior-level corporate and commercial experience, and working within the Nexa Law network, NJB Legal advises owner-managed businesses, SMEs and investors on transactions governed by the Companies Act 2006, Sale of Goods Act 1979 and Partnership Act 1890. Whether you are buying or selling a business, restructuring your shareholding or putting commercial contracts in place, NJB Legal provides direct, commercially focused advice. Call 07587 723897 or email info@anisrahmanchambers.co.uk."
       definitionTerm="Corporate & Commercial Law"
       definitionText="Corporate law governs the formation, operation and dissolution of companies in England and Wales under the Companies Act 2006, while commercial law covers the contracts and transactions that businesses enter into. Together, they form the legal framework within which businesses operate, acquire, grow and restructure."
       definitionLegislation="Companies Act 2006, Sale of Goods Act 1979, Partnership Act 1890"

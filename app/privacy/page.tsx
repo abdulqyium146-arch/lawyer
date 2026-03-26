@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "NJB Legal's privacy policy — how we collect, use and protect your personal data in accordance with UK GDPR.",
   alternates: {
-    canonical: "https://njblegal.co.uk/privacy",
+    canonical: "https://anisrahmanchambers.co.uk/privacy",
   },
   openGraph: {
     locale: "en_GB",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Privacy Policy | NJB Legal",
     description:
       "NJB Legal's privacy policy — how we collect, use and protect your personal data in accordance with UK GDPR.",
-    url: "https://njblegal.co.uk/privacy",
+    url: "https://anisrahmanchambers.co.uk/privacy",
     siteName: "NJB Legal",
   },
 };
@@ -57,7 +57,7 @@ export default function PrivacyPage() {
             <div>
               <p className="font-outfit text-slate leading-relaxed">
                 NJB Legal is committed to protecting your personal data and respecting your privacy. This Privacy Policy explains how NJB Legal collects, uses, stores and protects personal information when you use our website at{" "}
-                <Link href="/" className="text-gold hover:underline">njblegal.co.uk</Link>{" "}
+                <Link href="/" className="text-gold hover:underline">anisrahmanchambers.co.uk</Link>{" "}
                 or contact us in any way. It also sets out your rights under the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
               </p>
               <p className="font-outfit text-slate leading-relaxed mt-4">
@@ -89,8 +89,8 @@ export default function PrivacyPage() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate font-outfit">
                   <Mail size={16} className="text-gold shrink-0" />
-                  <a href="mailto:info@njblegal.co.uk" className="hover:text-gold transition-colors">
-                    info@njblegal.co.uk
+                  <a href="mailto:info@anisrahmanchambers.co.uk" className="hover:text-gold transition-colors">
+                    info@anisrahmanchambers.co.uk
                   </a>
                 </div>
               </address>
@@ -280,8 +280,8 @@ export default function PrivacyPage() {
               </ul>
               <p className="font-outfit text-slate leading-relaxed mt-4 text-sm">
                 To exercise any of these rights, please contact us at{" "}
-                <a href="mailto:info@njblegal.co.uk" className="text-gold hover:underline">
-                  info@njblegal.co.uk
+                <a href="mailto:info@anisrahmanchambers.co.uk" className="text-gold hover:underline">
+                  info@anisrahmanchambers.co.uk
                 </a>
                 . We will respond to all legitimate requests within one month. If you are not satisfied with our response, you have the right to complain to the Information Commissioner&apos;s Office (ICO) at{" "}
                 <a
@@ -350,8 +350,8 @@ export default function PrivacyPage() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate font-outfit">
                   <Mail size={16} className="text-gold shrink-0" />
-                  <a href="mailto:info@njblegal.co.uk" className="hover:text-gold transition-colors">
-                    info@njblegal.co.uk
+                  <a href="mailto:info@anisrahmanchambers.co.uk" className="hover:text-gold transition-colors">
+                    info@anisrahmanchambers.co.uk
                   </a>
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate font-outfit">

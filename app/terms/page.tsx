@@ -7,16 +7,16 @@ import BreadcrumbSchema from "@/app/components/schema/BreadcrumbSchema";
 
 export const metadata: Metadata = {
   title: "Terms of Use | NJB Legal",
-  description: "Terms of use for the NJB Legal website — njblegal.co.uk",
+  description: "Terms of use for the NJB Legal website — anisrahmanchambers.co.uk",
   alternates: {
-    canonical: "https://njblegal.co.uk/terms",
+    canonical: "https://anisrahmanchambers.co.uk/terms",
   },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Terms of Use | NJB Legal",
-    description: "Terms of use for the NJB Legal website — njblegal.co.uk",
-    url: "https://njblegal.co.uk/terms",
+    description: "Terms of use for the NJB Legal website — anisrahmanchambers.co.uk",
+    url: "https://anisrahmanchambers.co.uk/terms",
     siteName: "NJB Legal",
   },
 };
@@ -55,7 +55,7 @@ export default function TermsPage() {
             <div>
               <p className="font-outfit text-slate leading-relaxed">
                 These Terms of Use govern your access to and use of the NJB Legal website located at{" "}
-                <Link href="/" className="text-gold hover:underline">njblegal.co.uk</Link>{" "}
+                <Link href="/" className="text-gold hover:underline">anisrahmanchambers.co.uk</Link>{" "}
                 (the &ldquo;Website&rdquo;). By accessing or using this Website, you agree to be bound by these Terms of Use. If you do not agree with any part of these terms, you must not use this Website.
               </p>
               <p className="font-outfit text-slate leading-relaxed mt-4">
@@ -130,8 +130,8 @@ export default function TermsPage() {
               </p>
               <p className="font-outfit text-slate leading-relaxed mt-4">
                 You must not reproduce, publish, distribute, adapt, modify, transmit, display or create derivative works from any content on this Website without the express prior written consent of NJB Legal. Requests to reproduce content should be directed to{" "}
-                <a href="mailto:info@njblegal.co.uk" className="text-gold hover:underline">
-                  info@njblegal.co.uk
+                <a href="mailto:info@anisrahmanchambers.co.uk" className="text-gold hover:underline">
+                  info@anisrahmanchambers.co.uk
                 </a>
                 .
               </p>
@@ -203,8 +203,8 @@ export default function TermsPage() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate font-outfit">
                   <Mail size={16} className="text-gold shrink-0" />
-                  <a href="mailto:info@njblegal.co.uk" className="hover:text-gold transition-colors">
-                    info@njblegal.co.uk
+                  <a href="mailto:info@anisrahmanchambers.co.uk" className="hover:text-gold transition-colors">
+                    info@anisrahmanchambers.co.uk
                   </a>
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate font-outfit">

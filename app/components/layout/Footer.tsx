@@ -138,9 +138,9 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail size={16} className="text-gold shrink-0" aria-hidden="true" />
-                <a href="mailto:info@njblegal.co.uk"
+                <a href="mailto:info@anisrahmanchambers.co.uk"
                   className="text-sm text-white/70 hover:text-gold transition-colors">
-                  info@njblegal.co.uk
+                  info@anisrahmanchambers.co.uk
                 </a>
               </div>
             </address>

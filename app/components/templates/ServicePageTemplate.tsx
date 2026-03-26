@@ -356,10 +356,10 @@ export default function ServicePageTemplate({
                       07587 723897
                     </a>
                     <a
-                      href="mailto:info@njblegal.co.uk"
+                      href="mailto:info@anisrahmanchambers.co.uk"
                       className="block font-outfit text-gold text-sm font-semibold hover:underline"
                     >
-                      info@njblegal.co.uk
+                      info@anisrahmanchambers.co.uk
                     </a>
                   </address>
                   <a href="/contact" className="btn-primary w-full justify-center">

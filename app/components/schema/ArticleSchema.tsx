@@ -13,7 +13,7 @@ export default function ArticleSchema({
   datePublished,
   dateModified,
   url,
-  imageUrl = "https://njblegal.co.uk/android-chrome-512x512.png",
+  imageUrl = "https://anisrahmanchambers.co.uk/android-chrome-512x512.png",
 }: ArticleSchemaProps) {
   const schema = {
     "@context": "https://schema.org",
@@ -22,7 +22,7 @@ export default function ArticleSchema({
     description,
     datePublished,
     dateModified: dateModified ?? datePublished,
-    url: `https://njblegal.co.uk${url}`,
+    url: `https://anisrahmanchambers.co.uk${url}`,
     image: {
       "@type": "ImageObject",
       url: imageUrl,
@@ -30,14 +30,14 @@ export default function ArticleSchema({
       height: 630,
     },
     author: {
-      "@id": "https://njblegal.co.uk/#organization",
+      "@id": "https://anisrahmanchambers.co.uk/#organization",
     },
     publisher: {
-      "@id": "https://njblegal.co.uk/#organization",
+      "@id": "https://anisrahmanchambers.co.uk/#organization",
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://njblegal.co.uk${url}`,
+      "@id": `https://anisrahmanchambers.co.uk${url}`,
     },
     inLanguage: "en-GB",
   };

@@ -10,13 +10,13 @@ export const metadata: Metadata = {
   description:
     "What should a shareholders agreement include? NJB Legal explains the key clauses, why you need one, and how to protect your business interests in England and Wales.",
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/shareholders-agreement-guide-uk",
+    canonical: "https://anisrahmanchambers.co.uk/blog/shareholders-agreement-guide-uk",
   },
   openGraph: {
     title: "Shareholders Agreement Guide for UK Business Owners | NJB Legal",
     description:
       "What should a shareholders agreement include? NJB Legal explains the key clauses, why you need one, and how to protect your business interests in England and Wales.",
-    url: "https://njblegal.co.uk/blog/shareholders-agreement-guide-uk",
+    url: "https://anisrahmanchambers.co.uk/blog/shareholders-agreement-guide-uk",
     locale: "en_GB",
     type: "article",
   },

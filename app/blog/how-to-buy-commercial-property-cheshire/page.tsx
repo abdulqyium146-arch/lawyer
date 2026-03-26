@@ -11,13 +11,13 @@ export const metadata: Metadata = {
   description:
     "A complete step-by-step guide to buying commercial property in Cheshire and the North West. NJB Legal explains every legal stage from searches to completion.",
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/how-to-buy-commercial-property-cheshire",
+    canonical: "https://anisrahmanchambers.co.uk/blog/how-to-buy-commercial-property-cheshire",
   },
   openGraph: {
     title: "How to Buy Commercial Property in Cheshire: Step-by-Step Legal Guide | NJB Legal",
     description:
       "A complete step-by-step guide to buying commercial property in Cheshire and the North West. NJB Legal explains every legal stage from searches to completion.",
-    url: "https://njblegal.co.uk/blog/how-to-buy-commercial-property-cheshire",
+    url: "https://anisrahmanchambers.co.uk/blog/how-to-buy-commercial-property-cheshire",
     locale: "en_GB",
     type: "article",
   },

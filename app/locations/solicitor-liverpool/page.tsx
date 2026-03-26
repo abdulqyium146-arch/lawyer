@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Commercial property and corporate law advice for Liverpool businesses. NJB Legal provides specialist legal services across Merseyside and the North West. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-liverpool",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-liverpool",
   },
   openGraph: {
     title: "Commercial Property Solicitor Liverpool | Business Law | NJB Legal North West",
     description:
       "Commercial property and corporate law advice for Liverpool businesses. NJB Legal provides specialist legal services across Merseyside and the North West. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-liverpool",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-liverpool",
     locale: "en_GB",
     type: "website",
   },

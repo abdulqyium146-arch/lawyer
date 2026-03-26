@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Commercial property, agricultural law and business contract advice in Nantwich. NJB Legal serves Nantwich's farming, rural and commercial communities. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-nantwich",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-nantwich",
   },
   openGraph: {
     title: "Commercial Property Solicitor Nantwich | Agricultural Law | NJB Legal",
     description:
       "Commercial property, agricultural law and business contract advice in Nantwich. NJB Legal serves Nantwich's farming, rural and commercial communities. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-nantwich",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-nantwich",
     locale: "en_GB",
     type: "website",
   },

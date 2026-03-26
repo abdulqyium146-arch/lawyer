@@ -1,227 +1,266 @@
-﻿import type { MetadataRoute } from "next";
+import type { MetadataRoute } from "next";
 
-const BASE_URL = "https://njblegal.co.uk";
+const BASE_URL = "https://anisrahmanchambers.co.uk";
+
+// Static dates — prevents unnecessary sitemap churn on every build
+const DATES = {
+  homepage:  "2026-03-01",
+  services:  "2026-03-01",
+  locations: "2026-03-01",
+  blog:      "2026-03-01",
+  static:    "2026-02-01",
+};
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
-    // Homepage
+    // ── Homepage ─────────────────────────────────────────────────────────────
     {
       url: `${BASE_URL}/`,
-      lastModified: new Date(),
+      lastModified: DATES.homepage,
       changeFrequency: "weekly",
       priority: 1.0,
     },
 
-    // Services index
+    // ── Services ─────────────────────────────────────────────────────────────
     {
       url: `${BASE_URL}/services`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
-
-    // Individual service pages
     {
       url: `${BASE_URL}/services/commercial-property-solicitor-cheshire`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/services/commercial-lease-solicitor-cheshire`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/services/corporate-commercial-lawyer-north-west`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/services/agricultural-law-solicitor-uk`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/services/land-development-solicitor-cheshire`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/services/business-contracts-solicitor-cheshire`,
-      lastModified: new Date(),
+      lastModified: DATES.services,
       changeFrequency: "monthly",
       priority: 0.9,
     },
 
-    // Locations index
+    // ── Locations ─────────────────────────────────────────────────────────────
     {
       url: `${BASE_URL}/locations`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.8,
-    },
-
-    // Individual location pages
-    {
-      url: `${BASE_URL}/locations/solicitor-cheshire`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.8,
-    },
-    {
-      url: `${BASE_URL}/locations/solicitor-north-west`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-winsford`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
+      changeFrequency: "monthly",
+      priority: 0.85,
+    },
+    {
+      url: `${BASE_URL}/locations/solicitor-cheshire`,
+      lastModified: DATES.locations,
+      changeFrequency: "monthly",
+      priority: 0.85,
+    },
+    {
+      url: `${BASE_URL}/locations/solicitor-north-west`,
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-northwich`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-chester`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-macclesfield`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-crewe`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-knutsford`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-wilmslow`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-nantwich`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-congleton`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-warrington`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/locations/solicitor-manchester`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
-      priority: 0.8,
+      priority: 0.75,
     },
     {
       url: `${BASE_URL}/locations/solicitor-liverpool`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
-      priority: 0.8,
+      priority: 0.75,
     },
     {
       url: `${BASE_URL}/locations/solicitor-stockport`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
-      priority: 0.8,
+      priority: 0.75,
     },
     {
       url: `${BASE_URL}/locations/solicitor-preston`,
-      lastModified: new Date(),
+      lastModified: DATES.locations,
       changeFrequency: "monthly",
-      priority: 0.8,
+      priority: 0.75,
     },
 
-    // Blog index
+    // ── Blog ──────────────────────────────────────────────────────────────────
     {
       url: `${BASE_URL}/blog`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "weekly",
       priority: 0.7,
     },
-
-    // Individual blog posts
     {
       url: `${BASE_URL}/blog/break-clauses-commercial-leases`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
       url: `${BASE_URL}/blog/commercial-lease-guide-2026`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
       url: `${BASE_URL}/blog/how-to-buy-commercial-property-cheshire`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
       url: `${BASE_URL}/blog/agricultural-tenancy-guide-uk-2026`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
       url: `${BASE_URL}/blog/business-acquisition-legal-checklist`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
       url: `${BASE_URL}/blog/shareholders-agreement-guide-uk`,
-      lastModified: new Date(),
+      lastModified: DATES.blog,
       changeFrequency: "monthly",
       priority: 0.7,
     },
 
-    // About & Contact
+    // ── Core pages ────────────────────────────────────────────────────────────
     {
       url: `${BASE_URL}/about`,
-      lastModified: new Date(),
+      lastModified: DATES.static,
       changeFrequency: "monthly",
-      priority: 0.6,
+      priority: 0.65,
     },
     {
       url: `${BASE_URL}/contact`,
-      lastModified: new Date(),
+      lastModified: DATES.static,
+      changeFrequency: "monthly",
+      priority: 0.65,
+    },
+    {
+      url: `${BASE_URL}/faq`,
+      lastModified: DATES.static,
       changeFrequency: "monthly",
       priority: 0.6,
     },
+    {
+      url: `${BASE_URL}/case-results`,
+      lastModified: DATES.static,
+      changeFrequency: "monthly",
+      priority: 0.6,
+    },
+
+    // ── Legal / policy ────────────────────────────────────────────────────────
+    {
+      url: `${BASE_URL}/privacy`,
+      lastModified: DATES.static,
+      changeFrequency: "yearly",
+      priority: 0.3,
+    },
+    {
+      url: `${BASE_URL}/terms`,
+      lastModified: DATES.static,
+      changeFrequency: "yearly",
+      priority: 0.3,
+    },
+    {
+      url: `${BASE_URL}/disclaimer`,
+      lastModified: DATES.static,
+      changeFrequency: "yearly",
+      priority: 0.3,
+    },
+
+    // NOTE: orphaned pages (criminal-law, family-law, corporate-law, property-law,
+    // child-custody-manchester, divorce-process, what-to-do-if-arrested) are
+    // intentionally excluded — they carry robots: noindex.
   ];
 }

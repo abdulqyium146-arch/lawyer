@@ -12,13 +12,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides commercial property, corporate and agricultural law advice across North West England including Manchester, Liverpool, Warrington, Stockport and Preston. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-north-west",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-north-west",
   },
   openGraph: {
     title: "Commercial Property Solicitor North West England | NJB Legal Greater Manchester",
     description:
       "NJB Legal provides commercial property, corporate and agricultural law advice across North West England including Manchester, Liverpool, Warrington, Stockport and Preston. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-north-west",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-north-west",
     locale: "en_GB",
     type: "website",
   },

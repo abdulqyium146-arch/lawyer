@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Commercial property and business law advice in Northwich from NJB Legal. Serving Northwich's growing business community from our Winsford, Cheshire base. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-northwich",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-northwich",
   },
   openGraph: {
     title: "Solicitor in Northwich Greater Manchester | Commercial Property & Business Law | NJB Legal",
     description:
       "Commercial property and business law advice in Northwich from NJB Legal. Serving Northwich's growing business community from our Winsford, Cheshire base. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-northwich",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-northwich",
     locale: "en_GB",
     type: "website",
   },

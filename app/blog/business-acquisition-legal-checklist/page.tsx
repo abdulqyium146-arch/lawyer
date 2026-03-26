@@ -9,13 +9,13 @@ export const metadata: Metadata = {
   description:
     "A complete legal checklist for buying a business in England and Wales. NJB Legal covers due diligence, asset vs share purchase, TUPE and shareholder agreements.",
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/business-acquisition-legal-checklist",
+    canonical: "https://anisrahmanchambers.co.uk/blog/business-acquisition-legal-checklist",
   },
   openGraph: {
     title: "Legal Checklist When Buying a Business in the UK (2026) | NJB Legal",
     description:
       "A complete legal checklist for buying a business in England and Wales. NJB Legal covers due diligence, asset vs share purchase, TUPE and shareholder agreements.",
-    url: "https://njblegal.co.uk/blog/business-acquisition-legal-checklist",
+    url: "https://anisrahmanchambers.co.uk/blog/business-acquisition-legal-checklist",
     locale: "en_GB",
     type: "article",
   },

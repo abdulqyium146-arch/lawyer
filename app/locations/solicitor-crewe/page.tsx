@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Commercial property, corporate and agricultural law advice in Crewe from NJB Legal. Serving Crewe's engineering, rail and business sectors. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-crewe",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-crewe",
   },
   openGraph: {
     title: "Solicitor in Crewe | Commercial Property & Business Law | NJB Legal Greater Manchester",
     description:
       "Commercial property, corporate and agricultural law advice in Crewe from NJB Legal. Serving Crewe's engineering, rail and business sectors. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-crewe",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-crewe",
     locale: "en_GB",
     type: "website",
   },

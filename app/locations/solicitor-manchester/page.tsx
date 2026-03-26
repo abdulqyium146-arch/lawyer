@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides specialist commercial property, corporate law and business contract advice for Manchester businesses. Expert North West legal advice. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-manchester",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-manchester",
   },
   openGraph: {
     title: "Commercial Property Solicitor Manchester | Corporate Law | NJB Legal North West",
     description:
       "NJB Legal provides specialist commercial property, corporate law and business contract advice for Manchester businesses. Expert North West legal advice. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-manchester",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-manchester",
     locale: "en_GB",
     type: "website",
   },

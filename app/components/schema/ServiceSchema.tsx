@@ -16,9 +16,9 @@ export default function ServiceSchema({
     "@type": "Service",
     name,
     description,
-    url: `https://njblegal.co.uk${url}`,
+    url: `https://anisrahmanchambers.co.uk${url}`,
     provider: {
-      "@id": "https://njblegal.co.uk/#organization",
+      "@id": "https://anisrahmanchambers.co.uk/#organization",
     },
     areaServed: areaServed.map((area) => ({
       "@type": "Place",
@@ -27,7 +27,7 @@ export default function ServiceSchema({
     serviceType: "Legal Services",
     availableChannel: {
       "@type": "ServiceChannel",
-      serviceUrl: "https://njblegal.co.uk/contact",
+      serviceUrl: "https://anisrahmanchambers.co.uk/contact",
       servicePhone: "+447587723897",
     },
   };

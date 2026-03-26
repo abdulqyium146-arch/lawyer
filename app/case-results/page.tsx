@@ -10,14 +10,14 @@ export const metadata: Metadata = {
   title: "Case Results | Commercial Property, Corporate & Agricultural Law | NJB Legal Cheshire",
   description:
     "See NJB Legal's track record of successful outcomes across commercial property, corporate & commercial and agricultural law in Cheshire and the North West.",
-  alternates: { canonical: "https://njblegal.co.uk/case-results" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/case-results" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Case Results | NJB Legal Cheshire",
     description:
       "NJB Legal track record — completed deals, negotiated savings and successful outcomes across commercial property, corporate and agricultural law in Cheshire and nationwide.",
-    url: "https://njblegal.co.uk/case-results",
+    url: "https://anisrahmanchambers.co.uk/case-results",
   },
 };
 

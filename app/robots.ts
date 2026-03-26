@@ -6,9 +6,20 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: "/api/",
+        disallow: [
+          "/api/",
+          "/search",
+          "/_next/",
+        ],
       },
+      // Block AI training crawlers
+      { userAgent: "GPTBot", disallow: "/" },
+      { userAgent: "ChatGPT-User", disallow: "/" },
+      { userAgent: "CCBot", disallow: "/" },
+      { userAgent: "anthropic-ai", disallow: "/" },
+      { userAgent: "Claude-Web", disallow: "/" },
     ],
-    sitemap: "https://njblegal.co.uk/sitemap.xml",
+    sitemap: "https://anisrahmanchambers.co.uk/sitemap.xml",
+    host: "https://anisrahmanchambers.co.uk",
   };
 }

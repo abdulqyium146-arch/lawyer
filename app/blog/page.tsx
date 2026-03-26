@@ -9,14 +9,14 @@ export const metadata: Metadata = {
   title: "Legal Guides & Insights | Commercial Property, Corporate & Agricultural Law | NJB Legal",
   description:
     "Free, plain-English legal guides from NJB Legal in Winsford, Cheshire. Covering commercial property, corporate & commercial law and agricultural law across the North West and UK.",
-  alternates: { canonical: "https://njblegal.co.uk/blog" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/blog" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Legal Guides & Insights | NJB Legal Cheshire",
     description:
       "Free legal guides from NJB Legal — commercial property, corporate & commercial and agricultural law for businesses, investors and landowners in Cheshire and the North West.",
-    url: "https://njblegal.co.uk/blog",
+    url: "https://anisrahmanchambers.co.uk/blog",
   },
 };
 

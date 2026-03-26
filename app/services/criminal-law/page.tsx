@@ -13,14 +13,14 @@ export const metadata: Metadata = {
   description:
     "Expert criminal defence solicitors in Manchester. NJB Legal provides 24/7 emergency legal advice, police station representation, magistrates' and Crown Court defence across Cheshire and the North West.",
   robots: { index: false, follow: false },
-  alternates: { canonical: "https://njblegal.co.uk/services/criminal-law" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/services/criminal-law" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Criminal Defence Solicitors Manchester | NJB Legal",
     description:
       "24/7 emergency criminal defence lawyers in Manchester. Police station duty solicitor, magistrates' court and Crown Court representation across Cheshire and the North West.",
-    url: "https://njblegal.co.uk/services/criminal-law",
+    url: "https://anisrahmanchambers.co.uk/services/criminal-law",
   },
 };
 

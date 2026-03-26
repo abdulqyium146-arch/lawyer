@@ -41,8 +41,8 @@ export async function POST(request: NextRequest) {
     // Example with Resend:
     // const resend = new Resend(process.env.RESEND_API_KEY);
     // await resend.emails.send({
-    //   from: "noreply@njblegal.co.uk",
-    //   to: "info@njblegal.co.uk",
+    //   from: "noreply@anisrahmanchambers.co.uk",
+    //   to: "info@anisrahmanchambers.co.uk",
     //   subject: `New Enquiry: ${data.service} — ${data.fullName}`,
     //   html: `<p>Name: ${data.fullName}</p><p>Email: ${data.email}</p>...`
     // });

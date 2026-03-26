@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides commercial property, corporate and business contract advice in Stockport. Serving Stockport's growing commercial and retail sectors. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-stockport",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-stockport",
   },
   openGraph: {
     title: "Solicitor in Stockport | Commercial Property & Business Law | NJB Legal",
     description:
       "NJB Legal provides commercial property, corporate and business contract advice in Stockport. Serving Stockport's growing commercial and retail sectors. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-stockport",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-stockport",
     locale: "en_GB",
     type: "website",
   },

@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   title: "Commercial Property & Business Law Solicitors in Cheshire | NJB Legal",
   description:
     "NJB Legal — commercial property, corporate & commercial and agricultural law solicitors in Winsford, Cheshire. Senior-level advice. SRA regulated via Nexa Law. Call 07587 723897.",
-  alternates: { canonical: "https://njblegal.co.uk" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk" },
   openGraph: {
     title: "Commercial Property & Business Law Solicitors in Cheshire | NJB Legal",
     description:
       "Expert commercial property, corporate & commercial and agricultural law solicitors in Cheshire. Serving clients across the North West and nationwide. Call 07587 723897.",
-    url: "https://njblegal.co.uk",
+    url: "https://anisrahmanchambers.co.uk",
     locale: "en_GB",
     type: "website",
   },
@@ -154,7 +154,7 @@ const faqItems = [
   {
     question: "How do I get in touch with NJB Legal?",
     answer:
-      "Just call us on 07587 723897, email info@njblegal.co.uk or use the enquiry form on our contact page. We aim to respond the same day or the next working day. We are based in Winsford, Cheshire but work with clients across the North West and nationwide.",
+      "Just call us on 07587 723897, email info@anisrahmanchambers.co.uk or use the enquiry form on our contact page. We aim to respond the same day or the next working day. We are based in Winsford, Cheshire but work with clients across the North West and nationwide.",
   },
 ];
 
@@ -483,7 +483,7 @@ export default function HomePage() {
             </a>
 
             <a
-              href="mailto:info@njblegal.co.uk"
+              href="mailto:info@anisrahmanchambers.co.uk"
               className="flex flex-col items-center gap-3 bg-white/5 border border-gold/20 rounded-xl p-6 hover:border-gold/50 transition-colors text-center group"
             >
               <div className="w-12 h-12 bg-gold/10 rounded-full flex items-center justify-center group-hover:bg-gold/20 transition-colors">
@@ -491,7 +491,7 @@ export default function HomePage() {
               </div>
               <div>
                 <p className="font-outfit text-white/60 text-xs uppercase tracking-wide mb-1">Email Us</p>
-                <p className="font-cormorant font-semibold text-white text-xl">info@njblegal.co.uk</p>
+                <p className="font-cormorant font-semibold text-white text-xl">info@anisrahmanchambers.co.uk</p>
                 <p className="font-outfit text-white/50 text-xs mt-1">Response within 2 hours</p>
               </div>
             </a>

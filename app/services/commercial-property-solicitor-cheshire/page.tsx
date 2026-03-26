@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Specialist commercial property solicitors in Winsford, Cheshire. NJB Legal advises on buying, selling and leasing commercial premises across Cheshire, the North West and nationwide. Call 07587 723897.",
   alternates: {
     canonical:
-      "https://njblegal.co.uk/services/commercial-property-solicitor-cheshire",
+      "https://anisrahmanchambers.co.uk/services/commercial-property-solicitor-cheshire",
   },
   openGraph: {
     locale: "en_GB",
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
       "Commercial Property Solicitor Cheshire | Expert Legal Advice | NJB Legal",
     description:
       "Specialist commercial property solicitors in Cheshire. NJB Legal advises on buying, selling and leasing commercial premises across Cheshire, the North West and nationwide. Call 07587 723897.",
-    url: "https://njblegal.co.uk/services/commercial-property-solicitor-cheshire",
+    url: "https://anisrahmanchambers.co.uk/services/commercial-property-solicitor-cheshire",
     siteName: "NJB Legal",
     type: "website",
   },
@@ -46,7 +46,7 @@ export default function CommercialPropertyPage() {
         { name: "Commercial Property Solicitor Cheshire and the North West" },
       ]}
       headline="Commercial Property Solicitor in Cheshire and the North West | NJB Legal"
-      intro="If you are looking for a commercial property solicitor in Cheshire and the North West, NJB Legal offers specialist, partner-level advice from solicitor NJB Legal, Based in Winsford, Cheshire. With senior-level expertise of commercial property experience across Cheshire and the North West, Nicholas advises businesses, landlords, developers and investors on the full spectrum of commercial property transactions — from buying and selling commercial premises to complex development agreements and title disputes. All work is carried out in accordance with the Law of Property Act 1925, the Land Registration Act 2002 and the full body of English property law. Call 07587 723897 or email info@njblegal.co.uk to discuss your requirements."
+      intro="If you are looking for a commercial property solicitor in Cheshire and the North West, NJB Legal offers specialist, partner-level advice from solicitor NJB Legal, Based in Winsford, Cheshire. With senior-level expertise of commercial property experience across Cheshire and the North West, Nicholas advises businesses, landlords, developers and investors on the full spectrum of commercial property transactions — from buying and selling commercial premises to complex development agreements and title disputes. All work is carried out in accordance with the Law of Property Act 1925, the Land Registration Act 2002 and the full body of English property law. Call 07587 723897 or email info@anisrahmanchambers.co.uk to discuss your requirements."
       definitionTerm="Commercial Property"
       definitionText="Commercial property is any land or building used for business purposes, including offices, retail units, warehouses, industrial premises and mixed-use developments. Commercial property transactions in England and Wales are governed primarily by the Law of Property Act 1925 and the Land Registration Act 2002."
       definitionLegislation="Law of Property Act 1925, Land Registration Act 2002"

@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides specialist commercial property, corporate and agricultural law in Chester. Expert advice for Chester's retail, hospitality and commercial sectors. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-chester",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-chester",
   },
   openGraph: {
     title: "Commercial Property Solicitor Chester | Business & Property Law | NJB Legal",
     description:
       "NJB Legal provides specialist commercial property, corporate and agricultural law in Chester. Expert advice for Chester's retail, hospitality and commercial sectors. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-chester",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-chester",
     locale: "en_GB",
     type: "website",
   },

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Arrested in Manchester? Know your rights. NJB Legal explains what happens during arrest, your right to a duty solicitor, police interview rights, and the steps to take immediately.",
   robots: { index: false, follow: false },
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/what-to-do-if-arrested-manchester",
+    canonical: "https://anisrahmanchambers.co.uk/blog/what-to-do-if-arrested-manchester",
   },
   openGraph: {
     locale: "en_GB",
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "What to Do If You're Arrested in Manchester — Your Legal Rights (2026)",
     description:
       "Your legal rights if arrested in Manchester — duty solicitor, police interviews, bail and what happens next. Expert advice from NJB Legal.",
-    url: "https://njblegal.co.uk/blog/what-to-do-if-arrested-manchester",
+    url: "https://anisrahmanchambers.co.uk/blog/what-to-do-if-arrested-manchester",
   },
 };
 

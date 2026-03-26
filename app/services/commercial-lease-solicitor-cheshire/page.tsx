@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     "Expert commercial lease advice for landlords and tenants in Cheshire and the North West. NJB Legal handles lease negotiation, renewal, assignment and rent reviews. Based in Winsford, Cheshire. Call 07587 723897.",
   alternates: {
     canonical:
-      "https://njblegal.co.uk/services/commercial-lease-solicitor-cheshire",
+      "https://anisrahmanchambers.co.uk/services/commercial-lease-solicitor-cheshire",
   },
   openGraph: {
     locale: "en_GB",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
       "Commercial Lease Solicitor Cheshire | Lease Agreement Advice | NJB Legal",
     description:
       "Expert commercial lease advice for landlords and tenants in Cheshire and the North West. Lease negotiation, renewal, assignment and rent reviews. Call 07587 723897.",
-    url: "https://njblegal.co.uk/services/commercial-lease-solicitor-cheshire",
+    url: "https://anisrahmanchambers.co.uk/services/commercial-lease-solicitor-cheshire",
     siteName: "NJB Legal",
     type: "website",
   },
@@ -46,7 +46,7 @@ export default function CommercialLeasePage() {
         { name: "Commercial Lease Solicitor Cheshire and the North West" },
       ]}
       headline="Commercial Lease Solicitor in Cheshire and the North West | Lease Agreement Advice | NJB Legal"
-      intro="NJB Legal is a specialist commercial lease solicitor in Cheshire and the North West, advising landlords and tenants on all aspects of commercial leasehold law from our Winsford, Cheshire office. Solicitor NJB Legal has senior-level experience advising on the Landlord and Tenant Act 1954, negotiating lease terms, handling lease renewals and resolving dilapidations disputes. Whether you are a landlord letting commercial premises in Chester, a retailer negotiating a new Northwich shop lease, or a business tenant seeking to assign or sublet your lease, NJB Legal provides clear, commercially focused advice. Contact us on 07587 723897 or email info@njblegal.co.uk."
+      intro="NJB Legal is a specialist commercial lease solicitor in Cheshire and the North West, advising landlords and tenants on all aspects of commercial leasehold law from our Winsford, Cheshire office. Solicitor NJB Legal has senior-level experience advising on the Landlord and Tenant Act 1954, negotiating lease terms, handling lease renewals and resolving dilapidations disputes. Whether you are a landlord letting commercial premises in Chester, a retailer negotiating a new Northwich shop lease, or a business tenant seeking to assign or sublet your lease, NJB Legal provides clear, commercially focused advice. Contact us on 07587 723897 or email info@anisrahmanchambers.co.uk."
       definitionTerm="Commercial Lease"
       definitionText="A commercial lease is a legally binding agreement between a landlord and a business tenant granting the right to occupy commercial premises for a set term in exchange for rent. Commercial leases in England and Wales are governed by the Landlord and Tenant Act 1954, which provides security of tenure rights for qualifying business tenants."
       definitionLegislation="Landlord and Tenant Act 1954, Landlord and Tenant Act 1988"

@@ -10,14 +10,14 @@ export const metadata: Metadata = {
   title: "Legal FAQ | Commercial Property, Corporate & Agricultural Law Questions | NJB Legal Cheshire",
   description:
     "Answers to frequently asked questions about commercial property, corporate & commercial and agricultural law from NJB Legal — solicitors based in Winsford, Cheshire, serving clients UK-wide.",
-  alternates: { canonical: "https://njblegal.co.uk/faq" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/faq" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Legal FAQ | NJB Legal Cheshire",
     description:
       "Clear answers to common legal questions — commercial property, corporate & commercial and agricultural law — from NJB Legal, Winsford, Cheshire.",
-    url: "https://njblegal.co.uk/faq",
+    url: "https://anisrahmanchambers.co.uk/faq",
   },
 };
 
@@ -37,7 +37,7 @@ const generalFaqs = [
   {
     question: "How do I get in touch or book an initial chat?",
     answer:
-      "The easiest way is to call us on 07587 723897 or email info@njblegal.co.uk. You can also use the enquiry form on our contact page. We aim to get back to you the same day or the next working day at the latest.",
+      "The easiest way is to call us on 07587 723897 or email info@anisrahmanchambers.co.uk. You can also use the enquiry form on our contact page. We aim to get back to you the same day or the next working day at the latest.",
   },
   {
     question: "Is NJB Legal properly regulated?",

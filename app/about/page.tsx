@@ -10,14 +10,14 @@ export const metadata: Metadata = {
   title: "About NJB Legal | Commercial Property & Business Law Solicitors in Cheshire",
   description:
     "NJB Legal is a specialist law firm based in Winsford, Cheshire, providing expert commercial property, corporate & commercial and agricultural law services. SRA regulated via Nexa Law.",
-  alternates: { canonical: "https://njblegal.co.uk/about" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/about" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "About NJB Legal | Commercial Property & Business Law Solicitors",
     description:
       "Commercial property, corporate & commercial and agricultural law solicitors in Winsford, Cheshire. Serving clients across the North West and nationwide. SRA regulated.",
-    url: "https://njblegal.co.uk/about",
+    url: "https://anisrahmanchambers.co.uk/about",
   },
 };
 
@@ -69,7 +69,7 @@ const faqs = [
   {
     question: "How do I get started with NJB Legal?",
     answer:
-      "Just call us on 07587 723897 or email info@njblegal.co.uk. We will have an initial chat about your situation, give you an honest view on how we can help, and take it from there. There is no charge for the initial conversation and no obligation to proceed.",
+      "Just call us on 07587 723897 or email info@anisrahmanchambers.co.uk. We will have an initial chat about your situation, give you an honest view on how we can help, and take it from there. There is no charge for the initial conversation and no obligation to proceed.",
   },
 ];
 
@@ -165,8 +165,8 @@ export default function AboutPage() {
                   </p>
                   <p className="flex items-center gap-2">
                     <Mail size={16} className="text-gold shrink-0" />
-                    <a href="mailto:info@njblegal.co.uk" className="text-gold hover:underline">
-                      info@njblegal.co.uk
+                    <a href="mailto:info@anisrahmanchambers.co.uk" className="text-gold hover:underline">
+                      info@anisrahmanchambers.co.uk
                     </a>
                   </p>
                 </address>

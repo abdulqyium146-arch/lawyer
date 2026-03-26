@@ -13,14 +13,14 @@ export const metadata: Metadata = {
   description:
     "Compassionate family law solicitors in Manchester. NJB Legal handles divorce, child custody, financial settlements, domestic abuse protection and prenuptial agreements. Legal aid available. Free initial consultation.",
   robots: { index: false, follow: false },
-  alternates: { canonical: "https://njblegal.co.uk/services/family-law" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/services/family-law" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Family Law Solicitors Manchester | Divorce & Child Custody | NJB Legal",
     description:
       "Expert family law solicitors in Manchester. Divorce, child arrangements, financial orders and domestic abuse protection across Cheshire and the North West.",
-    url: "https://njblegal.co.uk/services/family-law",
+    url: "https://anisrahmanchambers.co.uk/services/family-law",
   },
 };
 

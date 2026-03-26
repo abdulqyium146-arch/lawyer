@@ -13,14 +13,14 @@ export const metadata: Metadata = {
   description:
     "Expert corporate law solicitors in Manchester. NJB Legal handles business formation, mergers & acquisitions, shareholder agreements and commercial contracts. Fixed-fee options. Free initial consultation.",
   robots: { index: false, follow: false },
-  alternates: { canonical: "https://njblegal.co.uk/services/corporate-law" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/services/corporate-law" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Corporate Law Solicitors Manchester | Business Legal Services | NJB Legal",
     description:
       "Manchester corporate lawyers for business formation, M&A, shareholder agreements and commercial contracts. Fixed-fee and transparent pricing.",
-    url: "https://njblegal.co.uk/services/corporate-law",
+    url: "https://anisrahmanchambers.co.uk/services/corporate-law",
   },
 };
 

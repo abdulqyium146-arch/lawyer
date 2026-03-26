@@ -16,13 +16,13 @@ export default function BreadcrumbSchema({ items }: BreadcrumbSchemaProps) {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://njblegal.co.uk",
+        item: "https://anisrahmanchambers.co.uk",
       },
       ...items.map((item, index) => ({
         "@type": "ListItem",
         position: index + 2,
         name: item.name,
-        item: `https://njblegal.co.uk${item.href}`,
+        item: `https://anisrahmanchambers.co.uk${item.href}`,
       })),
     ],
   };

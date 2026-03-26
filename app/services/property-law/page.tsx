@@ -13,14 +13,14 @@ export const metadata: Metadata = {
   description:
     "Expert property law solicitors in Manchester. NJB Legal handles residential conveyancing, commercial property, lease negotiations, property disputes and landlord & tenant matters. Fixed-fee conveyancing. Free initial consultation.",
   robots: { index: false, follow: false },
-  alternates: { canonical: "https://njblegal.co.uk/services/property-law" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/services/property-law" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Property Law Solicitors Manchester | Conveyancing & Commercial Property | NJB Legal",
     description:
       "Fixed-fee conveyancing and commercial property law in Manchester. Residential purchases, commercial leases, property disputes and landlord & tenant advice.",
-    url: "https://njblegal.co.uk/services/property-law",
+    url: "https://anisrahmanchambers.co.uk/services/property-law",
   },
 };
 

@@ -10,15 +10,15 @@ import BreadcrumbSchema from "@/app/components/schema/BreadcrumbSchema";
 export const metadata: Metadata = {
   title: "Contact NJB Legal | Commercial Property & Business Law Solicitors in Cheshire",
   description:
-    "Contact NJB Legal in Winsford, Cheshire. Commercial property, corporate & commercial and agricultural law solicitors. Call 07587 723897 or email info@njblegal.co.uk.",
-  alternates: { canonical: "https://njblegal.co.uk/contact" },
+    "Contact NJB Legal in Winsford, Cheshire. Commercial property, corporate & commercial and agricultural law solicitors. Call 07587 723897 or email info@anisrahmanchambers.co.uk.",
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/contact" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Contact NJB Legal | Winsford, Cheshire",
     description:
       "Get in touch with NJB Legal in Winsford, Cheshire. Specialist commercial property, corporate & commercial and agricultural law solicitors. Call 07587 723897.",
-    url: "https://njblegal.co.uk/contact",
+    url: "https://anisrahmanchambers.co.uk/contact",
   },
 };
 
@@ -118,8 +118,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-outfit font-semibold text-ink text-sm mb-1">Email</h3>
-                    <a href="mailto:info@njblegal.co.uk" className="font-outfit text-gold font-semibold text-sm hover:underline">
-                      info@njblegal.co.uk
+                    <a href="mailto:info@anisrahmanchambers.co.uk" className="font-outfit text-gold font-semibold text-sm hover:underline">
+                      info@anisrahmanchambers.co.uk
                     </a>
                     <p className="font-outfit text-slate text-xs mt-1">We respond within 1 working day</p>
                   </div>

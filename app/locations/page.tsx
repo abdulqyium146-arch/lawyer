@@ -10,13 +10,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides commercial property, corporate and agricultural law advice across Greater Manchester and the North West. Based in Manchester. View all service locations.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations",
+    canonical: "https://anisrahmanchambers.co.uk/locations",
   },
   openGraph: {
     title: "Solicitor Locations | Greater Manchester & North West England | NJB Legal",
     description:
       "NJB Legal provides commercial property, corporate and agricultural law advice across Greater Manchester and the North West. Based in Manchester. View all service locations.",
-    url: "https://njblegal.co.uk/locations",
+    url: "https://anisrahmanchambers.co.uk/locations",
     locale: "en_GB",
     type: "website",
   },

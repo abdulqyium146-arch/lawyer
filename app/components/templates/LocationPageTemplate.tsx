@@ -261,10 +261,10 @@ export default function LocationPageTemplate({
                   <p>
                     <span className="font-semibold text-ink">Email: </span>
                     <a
-                      href="mailto:info@njblegal.co.uk"
+                      href="mailto:info@anisrahmanchambers.co.uk"
                       className="text-gold hover:underline"
                     >
-                      info@njblegal.co.uk
+                      info@anisrahmanchambers.co.uk
                     </a>
                   </p>
                 </div>

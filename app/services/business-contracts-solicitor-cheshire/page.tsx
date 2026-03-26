@@ -16,12 +16,12 @@ export const metadata: Metadata = {
   description:
     "Expert business contract advice for companies in Cheshire and the North West. NJB Legal drafts and reviews commercial contracts, supply agreements, franchise agreements and NDAs. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/services/business-contracts-solicitor-cheshire",
+    canonical: "https://anisrahmanchambers.co.uk/services/business-contracts-solicitor-cheshire",
   },
   openGraph: {
     type: "website",
     locale: "en_GB",
-    url: "https://njblegal.co.uk/services/business-contracts-solicitor-cheshire",
+    url: "https://anisrahmanchambers.co.uk/services/business-contracts-solicitor-cheshire",
     title: "Business Contracts Solicitor Cheshire | Commercial Contract Advice | NJB Legal",
     description:
       "Expert business contract advice for companies in Cheshire and the North West. Commercial contracts, supply agreements, franchise agreements and NDAs. Call 07587 723897.",

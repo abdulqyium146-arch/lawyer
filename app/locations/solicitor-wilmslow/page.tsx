@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides commercial property and business law advice in Wilmslow. Expert advice for Wilmslow's professional and commercial sectors. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-wilmslow",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-wilmslow",
   },
   openGraph: {
     title: "Solicitor in Wilmslow Greater Manchester | Commercial Property & Business Law | NJB Legal",
     description:
       "NJB Legal provides commercial property and business law advice in Wilmslow. Expert advice for Wilmslow's professional and commercial sectors. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-wilmslow",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-wilmslow",
     locale: "en_GB",
     type: "website",
   },

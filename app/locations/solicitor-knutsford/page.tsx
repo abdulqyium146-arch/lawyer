@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Specialist commercial property, corporate and agricultural law in Knutsford. NJB Legal advises Knutsford's business community and rural landowners. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-knutsford",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-knutsford",
   },
   openGraph: {
     title: "Commercial Property Solicitor Knutsford | NJB Legal Greater Manchester",
     description:
       "Specialist commercial property, corporate and agricultural law in Knutsford. NJB Legal advises Knutsford's business community and rural landowners. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-knutsford",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-knutsford",
     locale: "en_GB",
     type: "website",
   },

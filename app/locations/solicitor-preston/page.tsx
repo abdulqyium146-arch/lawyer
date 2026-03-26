@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Commercial property, corporate and agricultural law advice in Preston. NJB Legal provides expert legal services for Preston businesses and landowners. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-preston",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-preston",
   },
   openGraph: {
     title: "Commercial Property Solicitor Preston | Business Law | NJB Legal North West",
     description:
       "Commercial property, corporate and agricultural law advice in Preston. NJB Legal provides expert legal services for Preston businesses and landowners. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-preston",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-preston",
     locale: "en_GB",
     type: "website",
   },

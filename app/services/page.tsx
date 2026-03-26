@@ -9,14 +9,14 @@ export const metadata: Metadata = {
   title: "Legal Services | Commercial Property, Corporate & Agricultural Law | NJB Legal Cheshire",
   description:
     "NJB Legal in Winsford, Cheshire offers specialist commercial property, corporate & commercial and agricultural law services for businesses, investors and landowners across the North West and UK.",
-  alternates: { canonical: "https://njblegal.co.uk/services" },
+  alternates: { canonical: "https://anisrahmanchambers.co.uk/services" },
   openGraph: {
     locale: "en_GB",
     type: "website",
     title: "Legal Services | NJB Legal Cheshire",
     description:
       "Specialist legal services in Cheshire — commercial property, corporate & commercial and agricultural law. SRA regulated. Serving clients across the North West and nationwide.",
-    url: "https://njblegal.co.uk/services",
+    url: "https://anisrahmanchambers.co.uk/services",
   },
 };
 

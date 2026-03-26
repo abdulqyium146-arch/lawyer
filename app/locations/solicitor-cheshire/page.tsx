@@ -12,13 +12,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides specialist commercial property, corporate and agricultural law across all of Cheshire. Based in Winsford, Cheshire, serving Chester, Northwich, Macclesfield, Crewe, Knutsford and more. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-cheshire",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-cheshire",
   },
   openGraph: {
     title: "Commercial Property Solicitor Cheshire | NJB Legal — Winsford",
     description:
       "NJB Legal provides specialist commercial property, corporate and agricultural law across all of Cheshire. Based in Winsford, Cheshire, serving Chester, Northwich, Macclesfield, Crewe, Knutsford and more. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-cheshire",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-cheshire",
     locale: "en_GB",
     type: "website",
   },
@@ -114,7 +114,7 @@ const FAQS = [
   {
     question: "How do I find a commercial property solicitor in Cheshire?",
     answer:
-      "NJB Legal is one of Cheshire's specialist commercial property practices, based in Winsford at 7 Charter Court, Winsford, Cheshire CW7 2FY. You can contact solicitor NJB Legal directly by phone on 07587 723897 or by email at info@njblegal.co.uk. We offer initial consultations and can advise on commercial property purchases, sales, leases and development across the county.",
+      "NJB Legal is one of Cheshire's specialist commercial property practices, based in Winsford at 7 Charter Court, Winsford, Cheshire CW7 2FY. You can contact solicitor NJB Legal directly by phone on 07587 723897 or by email at info@anisrahmanchambers.co.uk. We offer initial consultations and can advise on commercial property purchases, sales, leases and development across the county.",
   },
   {
     question: "Can NJB Legal advise on agricultural land in Cheshire?",

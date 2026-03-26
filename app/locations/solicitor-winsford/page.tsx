@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal is based in Winsford, Cheshire — providing specialist commercial property, corporate and agricultural law advice. Speak directly with NJB Legal. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-winsford",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-winsford",
   },
   openGraph: {
     title: "Solicitor in Winsford Cheshire | Commercial Property & Business Law | NJB Legal",
     description:
       "NJB Legal is based in Winsford, Cheshire — providing specialist commercial property, corporate and agricultural law advice. Speak directly with NJB Legal. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-winsford",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-winsford",
     locale: "en_GB",
     type: "website",
   },

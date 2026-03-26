@@ -16,12 +16,12 @@ export const metadata: Metadata = {
   description:
     "Expert agricultural law advice for farmers and landowners in Cheshire and across the UK. NJB Legal advises on farm tenancies, farmland purchases, rural development and diversification projects. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/services/agricultural-law-solicitor-uk",
+    canonical: "https://anisrahmanchambers.co.uk/services/agricultural-law-solicitor-uk",
   },
   openGraph: {
     type: "website",
     locale: "en_GB",
-    url: "https://njblegal.co.uk/services/agricultural-law-solicitor-uk",
+    url: "https://anisrahmanchambers.co.uk/services/agricultural-law-solicitor-uk",
     title: "Agricultural Law Solicitor Cheshire | Farm Land Legal Advice | NJB Legal",
     description:
       "Expert agricultural law advice for farmers and landowners in Cheshire and across the UK. Farm tenancies, farmland purchases, rural development and diversification. Call 07587 723897.",

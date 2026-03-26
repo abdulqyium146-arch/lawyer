@@ -182,8 +182,8 @@ export default function BlogPostLayout({
                         07587 723897
                       </a>
                       {" · "}
-                      <a href="mailto:info@njblegal.co.uk" className="text-gold hover:underline">
-                        info@njblegal.co.uk
+                      <a href="mailto:info@anisrahmanchambers.co.uk" className="text-gold hover:underline">
+                        info@anisrahmanchambers.co.uk
                       </a>
                     </p>
                   </address>
@@ -241,10 +241,10 @@ export default function BlogPostLayout({
                       07587 723897
                     </a>
                     <a
-                      href="mailto:info@njblegal.co.uk"
+                      href="mailto:info@anisrahmanchambers.co.uk"
                       className="block font-outfit text-gold text-sm font-semibold hover:underline"
                     >
-                      info@njblegal.co.uk
+                      info@anisrahmanchambers.co.uk
                     </a>
                   </address>
                   <Link href="/contact" className="btn-primary w-full justify-center">

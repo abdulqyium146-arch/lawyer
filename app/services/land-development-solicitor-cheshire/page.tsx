@@ -16,12 +16,12 @@ export const metadata: Metadata = {
   description:
     "Legal advice for property developers and landowners in Cheshire and the North West. NJB Legal handles site acquisitions, option agreements, Section 106 obligations and plot sales. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/services/land-development-solicitor-cheshire",
+    canonical: "https://anisrahmanchambers.co.uk/services/land-development-solicitor-cheshire",
   },
   openGraph: {
     type: "website",
     locale: "en_GB",
-    url: "https://njblegal.co.uk/services/land-development-solicitor-cheshire",
+    url: "https://anisrahmanchambers.co.uk/services/land-development-solicitor-cheshire",
     title: "Land Development Solicitor Cheshire | Property Developer Legal Advice | NJB Legal",
     description:
       "Legal advice for property developers and landowners in Cheshire and the North West. Site acquisitions, option agreements, Section 106 and plot sales. Call 07587 723897.",

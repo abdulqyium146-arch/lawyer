@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides expert commercial property, corporate and agricultural law in Macclesfield. Specialist legal advice for Macclesfield businesses and landowners. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-macclesfield",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-macclesfield",
   },
   openGraph: {
     title: "Commercial Property Solicitor Macclesfield | NJB Legal Greater Manchester",
     description:
       "NJB Legal provides expert commercial property, corporate and agricultural law in Macclesfield. Specialist legal advice for Macclesfield businesses and landowners. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-macclesfield",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-macclesfield",
     locale: "en_GB",
     type: "website",
   },

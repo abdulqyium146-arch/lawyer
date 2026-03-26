@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "A complete guide to the divorce process in England and Wales in 2026. No-fault divorce, timelines, financial settlements, child arrangements and legal costs explained by NJB Legal Manchester.",
   robots: { index: false, follow: false },
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/divorce-process-england-wales-2026",
+    canonical: "https://anisrahmanchambers.co.uk/blog/divorce-process-england-wales-2026",
   },
   openGraph: {
     locale: "en_GB",
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "Divorce Process in England and Wales: A Complete Guide (2026)",
     description:
       "Everything you need to know about getting divorced in England and Wales in 2026 — no-fault divorce, stages, costs, financial orders and child arrangements.",
-    url: "https://njblegal.co.uk/blog/divorce-process-england-wales-2026",
+    url: "https://anisrahmanchambers.co.uk/blog/divorce-process-england-wales-2026",
   },
 };
 

@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Expert commercial property and business law advice in Congleton from NJB Legal. Serving Congleton's manufacturing and business community. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-congleton",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-congleton",
   },
   openGraph: {
     title: "Solicitor in Congleton Greater Manchester | Commercial Property & Business Law | NJB Legal",
     description:
       "Expert commercial property and business law advice in Congleton from NJB Legal. Serving Congleton's manufacturing and business community. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-congleton",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-congleton",
     locale: "en_GB",
     type: "website",
   },

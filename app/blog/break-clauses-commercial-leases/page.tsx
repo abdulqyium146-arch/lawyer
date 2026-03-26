@@ -10,13 +10,13 @@ export const metadata: Metadata = {
   description:
     "What is a break clause in a commercial lease? NJB Legal explains how break clauses work, how to exercise them correctly, and the risks of getting it wrong. Expert advice from Winsford, Cheshire.",
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/break-clauses-commercial-leases",
+    canonical: "https://anisrahmanchambers.co.uk/blog/break-clauses-commercial-leases",
   },
   openGraph: {
     title: "Break Clauses in Commercial Leases: A Complete Guide (2026) | NJB Legal",
     description:
       "What is a break clause in a commercial lease? NJB Legal explains how break clauses work, how to exercise them correctly, and the risks of getting it wrong.",
-    url: "https://njblegal.co.uk/blog/break-clauses-commercial-leases",
+    url: "https://anisrahmanchambers.co.uk/blog/break-clauses-commercial-leases",
     locale: "en_GB",
     type: "article",
   },

@@ -9,13 +9,13 @@ export const metadata: Metadata = {
   description:
     "Everything you need to know before signing a commercial lease in England and Wales. NJB Legal's complete 2026 guide covering rent, break clauses, dilapidations and the Landlord and Tenant Act 1954.",
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/commercial-lease-guide-2026",
+    canonical: "https://anisrahmanchambers.co.uk/blog/commercial-lease-guide-2026",
   },
   openGraph: {
     title: "Commercial Lease Agreement Guide for UK Business Owners (2026) | NJB Legal",
     description:
       "Everything you need to know before signing a commercial lease in England and Wales. NJB Legal's complete 2026 guide covering rent, break clauses, dilapidations and the Landlord and Tenant Act 1954.",
-    url: "https://njblegal.co.uk/blog/commercial-lease-guide-2026",
+    url: "https://anisrahmanchambers.co.uk/blog/commercial-lease-guide-2026",
     locale: "en_GB",
     type: "article",
   },

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "A complete guide to child custody — called child arrangements — in England and Wales. Understand residence orders, contact, mediation and what courts consider. Advice from NJB Legal Manchester.",
   robots: { index: false, follow: false },
   alternates: {
-    canonical: "https://njblegal.co.uk/blog/child-custody-manchester-guide",
+    canonical: "https://anisrahmanchambers.co.uk/blog/child-custody-manchester-guide",
   },
   openGraph: {
     locale: "en_GB",
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "Child Custody in Manchester: A Complete Guide to Child Arrangements (2026)",
     description:
       "Everything parents in Manchester need to know about child custody law in England and Wales — residence, contact, mediation, court orders and parental rights.",
-    url: "https://njblegal.co.uk/blog/child-custody-manchester-guide",
+    url: "https://anisrahmanchambers.co.uk/blog/child-custody-manchester-guide",
   },
 };
 

@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "NJB Legal provides specialist commercial property, corporate and agricultural law in Warrington. Expert advice for Warrington's logistics, retail and commercial sectors. Call 07587 723897.",
   alternates: {
-    canonical: "https://njblegal.co.uk/locations/solicitor-warrington",
+    canonical: "https://anisrahmanchambers.co.uk/locations/solicitor-warrington",
   },
   openGraph: {
     title: "Commercial Property Solicitor Warrington | NJB Legal Greater Manchester",
     description:
       "NJB Legal provides specialist commercial property, corporate and agricultural law in Warrington. Expert advice for Warrington's logistics, retail and commercial sectors. Call 07587 723897.",
-    url: "https://njblegal.co.uk/locations/solicitor-warrington",
+    url: "https://anisrahmanchambers.co.uk/locations/solicitor-warrington",
     locale: "en_GB",
     type: "website",
   },
